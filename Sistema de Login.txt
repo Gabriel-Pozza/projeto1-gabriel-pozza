@@ -1,2 +1,4 @@
 digite seu nome
 Digite sua senha
+digite sua idade
+arroz
